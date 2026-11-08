@@ -7,7 +7,7 @@ This module covers the fundamentals of penetration testing and provides an intro
 ## 📋 Sections
 
 ### 1.1.1 Pre-Engagement
-- [Study Notes](./01.1.1-Pre-Engagement.md)
+- [Study Notes](.[/01.1.1-Pre-Engagement.md](https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/blob/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process/01.1.1%20%20Pre-Engagement.md))
 
 ### 1.1.2 Vulnerability Assessment
 - [Study Notes](./01.1.2-Vulnerability-Assessment.md)
