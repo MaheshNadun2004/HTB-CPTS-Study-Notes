@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cpts-banner.png" alt="HTB CPTS Banner" width="100%">
+  <img src="cpts-banner.png" alt="HTB CPTS Banner" width="100%">
 </p>
 
 <h1 align="center">HTB CPTS – Study Notes</h1>
