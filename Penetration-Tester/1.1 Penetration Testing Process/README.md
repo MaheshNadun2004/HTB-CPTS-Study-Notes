@@ -11,13 +11,13 @@ This module covers the fundamentals of penetration testing and provides an intro
 
 
 ### 1.1.2 Vulnerability Assessment
-- [Study Notes](./01.1.2-Vulnerability-Assessment.md)
+- [Study Notes](./01.1.2--Vulnerability-Assessment.md)
 
 ### 1.1.3 Post-Exploitation
-- [Study Notes](./01.1.3-Post-Exploitation.md)
+- [Study Notes](./01.1.3--Post-Exploitation.md)
 
 ### 1.1.4 Post-Engagement
-- [Study Notes](./01.1.4-Post-Engagement.md)
+- [Study Notes](./01.1.4--Post-Engagement.md)
 
 ---
 
