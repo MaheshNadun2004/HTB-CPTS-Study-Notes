@@ -7,7 +7,8 @@ This module covers the fundamentals of penetration testing and provides an intro
 ## 📋 Sections
 
 ### 1.1.1 Pre-Engagement
-- [Study Notes](./01.1.1-Pre-Engagement.md)
+- [Study Notes](./01.1.1  Pre-Engagement.md)
+
 
 ### 1.1.2 Vulnerability Assessment
 - [Study Notes](./01.1.2-Vulnerability-Assessment.md)
