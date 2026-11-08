@@ -16,19 +16,19 @@ This repository contains my personal study notes and practical learning material
 
 ### 01. Penetration Tester
 
-1. Penetration Testing Process
-2. Getting Started
-3. Network Enumeration With Nmap
-4. Footprinting
-5. Information Gathering – Web Edition
-6. Vulnerability Assessment
-7. File Transfers]
-8. Shell & Payloads]
-9. Using the Metasploit Framework]
-10. Password Attacks]
-11. Attacking Common Services]
-12. Pivoting, Tunneling and Port Forwarding]
-13. Active Directory Enumeration & Attacks]
+1. [Penetration Testing Process](https://hacknseek.gitlab.io/certifications/CPTS/penetration-testing-process/)
+2. [Getting Started](https://hacknseek.gitlab.io/certifications/CPTS/getting-started/)
+3. [Network Enumeration With Nmap](https://hacknseek.gitlab.io/certifications/CPTS/network-enumeration-with-nmap/)
+4. [Footprinting](https://hacknseek.gitlab.io/certifications/CPTS/footprinting/)
+5. [Information Gathering – Web Edition](https://hacknseek.gitlab.io/certifications/CPTS/information-gathering-web-edition/)
+6. [Vulnerability Assessment](https://hacknseek.gitlab.io/certifications/CPTS/vulnerability-assessment/)
+7. [File Transfers](https://hacknseek.gitlab.io/certifications/CPTS/file-transfer/)
+8. [Shell & Payloads](https://hacknseek.gitlab.io/certifications/CPTS/shell-payloads/)
+9. [Using the Metasploit Framework](https://hacknseek.gitlab.io/certifications/CPTS/using-metasploit-framework/)
+10. [Password Attacks](https://hacknseek.gitlab.io/certifications/CPTS/password-attacks/)
+11. [Attacking Common Services](https://hacknseek.gitlab.io/certifications/CPTS/attacking-common-services/)
+12. [Pivoting, Tunneling and Port Forwarding](https://hacknseek.gitlab.io/certifications/CPTS/pivoting-tunneling-and-port-forwarding/)
+13. [Active Directory Enumeration & Attacks](https://hacknseek.gitlab.io/certifications/CPTS/ad-enumeration-%26-attacks/)
 
 ## 🎯 Learning Objectives
 
