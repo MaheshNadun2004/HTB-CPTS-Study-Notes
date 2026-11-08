@@ -46,8 +46,8 @@ All notes are written in simple English to make learning and revision easier.
 
 | No. | Module | Notes |
 |:---:|---|---|
-| 01.1 | Penetration Testing Process | [View Notes](./01-Penetration-Tester/01.1-Penetration-Testing-Process/README.md) |
-| 01.2 | Getting Started with a Pentest Distro | [View Notes](./01-Penetration-Tester/01.2-Getting-Started-with-a-Pentest-Distro/README.md) |
+| 01.1 | Penetration Testing Process | View Notes |
+| 01.2 | Getting Started with a Pentest Distro | View Notes |
 | 01.3 | Network Enumeration With Nmap | Coming Soon |
 | 01.4 | Footprinting | Coming Soon |
 | 01.5 | Information Gathering - Web Edition | Coming Soon |
@@ -89,15 +89,6 @@ All notes are written in simple English to make learning and revision easier.
 
 ---
 
-## 📖 My Learning Resources
-
-- [Hack The Box Academy](https://academy.hackthebox.com/)
-- [Hack The Box](https://www.hackthebox.com/)
-- [TryHackMe](https://tryhackme.com/)
-- [OWASP](https://owasp.org/)
-- [Nmap Documentation](https://nmap.org/book/man.html)
-
----
 
 ## ⚠️ Disclaimer
 
@@ -123,18 +114,6 @@ BICT Undergraduate | University of Vavuniya, Sri Lanka
 
 ---
 
-## 📊 Repository Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaheshNadun2004&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshNadun2004&theme=tokyonight&hide_border=true" height="160">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaheshNadun2004&label=Repository%20Views&color=00d4ff&style=flat" alt="Profile Views">
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:00FF88&height=120&section=footer" width="100%">
