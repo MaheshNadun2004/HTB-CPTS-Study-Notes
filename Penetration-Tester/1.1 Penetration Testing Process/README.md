@@ -12,16 +12,16 @@ It explains the different stages of a penetration test, from initial planning to
 ## 📋 Sections
 
 ### 1.1.1 Pre-Engagement
-- [📖 Study Notes](.[/01.1.1-Pre-Engagement.md](https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/blob/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process/All/01.1.1--Pre-Engagement.md))
+- [📖 Study Notes](.https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/blob/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process/All/01.1.1--Pre-Engagement.md)
 
 ### 1.1.2 Vulnerability Assessment
-- [📖 Study Notes](.[/01.1.2-Vulnerability-Assessment.md](https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/blob/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process/All/01.1.2--Vulnerability-Assessment.md))
+- [📖 Study Notes](.https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/blob/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process/All/01.1.2--Vulnerability-Assessment.md)
 
 ### 1.1.3 Post-Exploitation
-- [📖 Study Notes](.[/01.1.3-Post-Exploitation.md](https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/blob/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process/All/01.1.3--Post-Exploitation.md))
+- [📖 Study Notes](.https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/blob/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process/All/01.1.3--Post-Exploitation.md)
 
 ### 1.1.4 Post-Engagement
-- [📖 Study Notes](.[/01.1.4-Post-Engagement.md](https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/blob/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process/All/01.1.4--Post-Engagement.md))
+- [📖 Study Notes](.https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/blob/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process/All/01.1.4--Post-Engagement.md)
 
 ---
 
