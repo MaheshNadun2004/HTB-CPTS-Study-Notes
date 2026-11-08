@@ -46,7 +46,7 @@ All notes are written in simple English to make learning and revision easier.
 
 | No. | Module | Notes |
 |:---:|---|---|
-| 01.1 | Penetration Testing Process | [View Notes](/https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/tree/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process) |
+| 01.1 | Penetration Testing Process | [View Notes]([/https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/tree/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process](https://github.com/MaheshNadun2004/HTB-CPTS-Study-Notes/tree/main/Penetration-Tester/1.1%20Penetration%20Testing%20Process)) |
 | 01.2 | Getting Started with a Pentest Distro | View Notes |
 | 01.3 | Network Enumeration With Nmap | Coming Soon |
 | 01.4 | Footprinting | Coming Soon |
