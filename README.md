@@ -1,81 +1,147 @@
+
+<!-- Animated Header -->
 <p align="center">
   <img src="cpts-banner.png" alt="HTB CPTS Banner" width="100%">
 </p>
 
-<h1 align="center">HTB CPTS – Study Notes</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=HTB+CPTS+Study+Notes;Penetration+Testing+Journey;Learning+Ethical+Hacking" alt="Typing SVG">
+</h1>
 
 <p align="center">
-  <strong>Hack The Box Certified Penetration Testing Specialist</strong>
-  <br>
-  Personal Learning Journey & Technical Notes
+  <b>My personal learning journey towards the HTB Certified Penetration Testing Specialist (CPTS) certification.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
+  <img src="https://img.shields.io/badge/Focus-Penetration%20Testing-00D4FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge">
 </p>
 
 ---
 
-My personal learning notes, practical exercises, commands, and knowledge gained while studying the **Hack The Box Certified Penetration Testing Specialist (CPTS)** learning path.
+## 👨‍💻 About This Repository
 
-## 📜 About HTB CPTS
+Welcome to my **HTB CPTS Study Notes** repository!
 
-HTB Certified Penetration Testing Specialist (HTB CPTS) is a highly hands-on certification that assesses penetration testing skills.
+This repository contains my personal notes, commands, practical examples, and key concepts while studying penetration testing through Hack The Box Academy.
 
-It focuses on ethical hacking, vulnerability identification, exploitation, network security, and professional penetration testing methodologies.
+My goal is to build strong practical skills in:
 
-This repository contains my personal study notes and practical learning materials throughout the CPTS learning journey.
+- Penetration Testing
+- Network Enumeration
+- Vulnerability Assessment
+- Web Application Security
+- Linux and Windows Security
+- Privilege Escalation
+- Active Directory Security
 
-## 📋 Learning Modules
+All notes are written in simple English to make learning and revision easier.
+
+---
+
+## 📚 Learning Modules
 
 ### 01. Penetration Tester
 
-1. Penetration Testing Process
-2. Getting Started
-3. Network Enumeration With Nmap
-4. Footprinting
-5. Information Gathering – Web Edition
-6. Vulnerability Assessment
-7. File Transfers
-8. Shell & Payloads
-9. Using the Metasploit Framework
-10. Password Attacks
-11. Attacking Common Services
-12. Pivoting, Tunneling and Port Forwarding
-13. Active Directory Enumeration & Attacks
+| No. | Module | Notes |
+|:---:|---|---|
+| 01.1 | Penetration Testing Process | [View Notes](./01-Penetration-Tester/01.1-Penetration-Testing-Process/README.md) |
+| 01.2 | Getting Started with a Pentest Distro | [View Notes](./01-Penetration-Tester/01.2-Getting-Started-with-a-Pentest-Distro/README.md) |
+| 01.3 | Network Enumeration With Nmap | Coming Soon |
+| 01.4 | Footprinting | Coming Soon |
+| 01.5 | Information Gathering - Web Edition | Coming Soon |
+| 01.6 | Vulnerability Assessment | Coming Soon |
+| 01.7 | File Transfers | Coming Soon |
+| 01.8 | Shells & Payloads | Coming Soon |
+| 01.9 | Using the Metasploit Framework | Coming Soon |
+| 01.10 | Password Attacks | Coming Soon |
+| 01.11 | Attacking Common Services | Coming Soon |
+| 01.12 | Pivoting, Tunneling and Port Forwarding | Coming Soon |
+| 01.13 | Active Directory Enumeration & Attacks | Coming Soon |
 
-## 🎯 Learning Objectives
-
-- Understand penetration testing methodologies.
-- Develop network enumeration skills.
-- Identify and assess security vulnerabilities.
-- Learn exploitation techniques in authorized labs.
-- Practice Linux and Windows security tools.
-- Improve practical penetration testing skills.
-- Develop professional reporting skills.
+---
 
 ## 🛠️ Tools & Technologies
 
-- Kali Linux
-- Nmap
-- Wireshark
-- Netcat
-- SMBClient
-- Metasploit Framework
-- Burp Suite
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-## 📚 Learning Resources
+---
 
-- Hack The Box Academy
-- Hack The Box Labs
-- Personal Notes and Practical Exercises
+## 🎯 Learning Objectives
+
+- Understand the penetration testing methodology.
+- Learn network scanning and enumeration.
+- Identify vulnerabilities in target systems.
+- Understand common network services and their weaknesses.
+- Practice using penetration testing tools.
+- Improve Linux command-line skills.
+- Develop practical problem-solving skills.
+- Prepare for the HTB CPTS certification.
+
+---
+
+## 📖 My Learning Resources
+
+- [Hack The Box Academy](https://academy.hackthebox.com/)
+- [Hack The Box](https://www.hackthebox.com/)
+- [TryHackMe](https://tryhackme.com/)
+- [OWASP](https://owasp.org/)
+- [Nmap Documentation](https://nmap.org/book/man.html)
+
+---
 
 ## ⚠️ Disclaimer
 
-This repository is for educational purposes only. All practical exercises and security testing activities should be performed in authorized environments.
+These notes are created for educational purposes only.
+
+All practical activities should be performed in authorized environments such as Hack The Box Academy, TryHackMe, and personal labs.
+
+Never test systems without proper permission.
+
+---
+
+## 👨‍🎓 Author
+
+**Mahesh Nadun**
+
+BICT Undergraduate | University of Vavuniya, Sri Lanka
+
+<p align="left">
+  <a href="https://github.com/MaheshNadun2004">
+    <img src="https://img.shields.io/badge/GitHub-MaheshNadun2004-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 📊 Repository Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaheshNadun2004&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshNadun2004&theme=tokyonight&hide_border=true" height="160">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaheshNadun2004&label=Repository%20Views&color=00d4ff&style=flat" alt="Profile Views">
+</p>
 
 ---
 
 <p align="center">
-  <strong>Author: Mahesh Nadun</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:00FF88&height=120&section=footer" width="100%">
+</p>
+
+<p align="center">
+  <b>Learn • Practice • Improve • Repeat</b>
   <br>
-  HTB CPTS Learning Journey
-  <br>
-  🚀 Currently Learning
+  <i>One step closer to becoming a penetration tester.</i>
 </p>
